@@ -39,8 +39,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
-    cd YOUR_REPO
+    git clone https://github.com/saadzaveri26/ai-trip-planner-pro.git
     ```
 2.  **Install the required packages:**
     ```sh
